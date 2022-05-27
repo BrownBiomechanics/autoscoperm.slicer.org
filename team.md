@@ -4,27 +4,59 @@ title: Team
 permalink: /team/
 ---
 
-# Team
+SlicerAutoscoperM (SAM) development is a collaboration between the following institutions.
 
-SAM development is a collaboration between Brown University and Rhode Island Hospital, Kitware, Cleveland Clinic, Mayo Clinic and Queens University.
+<table>
+  <tbody>
 
-## Brown University and Rhode Island Hospital
-<a href="https://www.brown.edu/academics/medical/about/departments/orthopaedics/bioengineering/" target="_blank">Bioengineering Laboratory</a>
+    <tr>
+      <td>
+        <h4>Brown University and Rhode Island Hospital</h4>
+        <h5><a href="https://www.brown.edu/academics/medical/about/departments/orthopaedics/bioengineering/" target="_blank">Bioengineering Laboratory</a></h5>
+      </td>
+      <td></td>
+    </tr>
 
-## Kitware
-<img style="float: left; margin: 0 20px 20px 0;" src="../images/Kitware.png" alt="Kitware Medical Computing Group">
-<a href="https://www.kitware.com/teams/medical-computing" target="_blank">Medical Computing Group</a>
+    <tr>
+      <td>
+        <h4>Kitware</h4>
+        <h5><a href="https://www.kitware.com/teams/medical-computing" target="_blank">Medical Computing Group</a></h5>
+      </td>
+      <td>
+        <img src="../images/Kitware.png" alt="Kitware Medical Computing Group" width="200">
+      </td>
+    </tr>
 
+    <tr>
+      <td>
+        <h4>Cleveland Clinic</h4>
+        <h5><a href="https://www.lerner.ccf.org/">Lerner Research Institute</a></h5>
+      </td>
+      <td>
+        <img src="../images/Cleveland.jpg" alt="Cleveland Clinic Lerner Research Institute" width="200">
+      </td>
+    </tr>
 
-## Cleveland Clinic
-<img style="float: left; margin: 0 20px 20px 0;" src="../images/Cleveland.jpg" alt="Cleveland Clinic Lerner Research Institute">
-Lerner Research Institute
+    <tr>
+      <td>
+        <h4>Mayo Clinic</h4>
+        <h5><a href="https://www.mayo.edu/research/labs/assistive-and-restorative-technology/overview" target="_blank">Assistive and Restorative Technology Laboratory</a></h5>
+      </td>
+      <td>
+        <img src="../images/Mayo.png" alt="Mayo Clinic  Assistive and Restorative Technology Laboratory" height="100">
+      </td>
+    </tr>
 
-## Mayo Clinic
-<img style="float: left; margin: 0 20px 20px 0;" src="../images/Mayo.png" alt="Mayo Clinic  Assistive and Restorative Technology Laboratory">
-<a href="https://www.mayo.edu/research/labs/assistive-and-restorative-technology/overview" target="_blank">Assistive and Restorative Technology Laboratory</a>
+    <tr>
+      <td>
+        <h4>Queen's University</h4>
+        <h5><a href="https://skeletalobservationlaboratory.com/" target="_blank">Skeletal Observation Laboratory</a></h5>
+      </td>
+      <td>
+        <img src="../images/Queens.png" alt="Queen's University Skeletal Observation Laboratory" height="100">
+      </td>
+    </tr>
 
+  </tbody>
+</table>
 
-## Queens University
-<img style="float: left; margin: 0 20px 20px 0;" src="../images/Queens.png" alt="Queens University Skeletal Observation Laboratory">
-<a href="https://skeletalobservationlaboratory.com/" target="_blank">Skeletal Observation Laboratory</a>
