@@ -14,7 +14,9 @@ SlicerAutoscoperM (SAM) development is a collaboration between the following ins
         <h4>Brown University and Rhode Island Hospital</h4>
         <h5><a href="https://www.brown.edu/academics/medical/about/departments/orthopaedics/bioengineering/" target="_blank">Bioengineering Laboratory</a></h5>
       </td>
-      <td></td>
+      <td>
+        <img src="../images/BrownUniversity.png" alt="Brown University" width="200">
+      </td>
     </tr>
 
     <tr>
