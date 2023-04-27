@@ -7,7 +7,7 @@ permalink: /tutorial/
 This tutorial will walk you through the steps to use SAM to track a 3D motion of a skeletal structure from a single bi-plane video radiography image set.
 
 ## Prerequisites
-SAM is a 3D Slicer extension. Therefore, you will need to install 3D Slicer first. You can download the latest version of 3D Slicer from [here](https://download.slicer.org/). SAM is currently only available for Windows and Linux operating systems. MacOS support is planned for the future.
+SAM is a 3D Slicer extension. Therefore, you will need to install 3D Slicer first. The **preview** version of Slicer is required, which can be found [here](https://download.slicer.org/). SAM is currently only available for Windows and Linux operating systems. MacOS support is planned for the future.
 
 ## Installation
 SAM is available as a 3D Slicer extension. You can install it from the 3D Slicer extension manager. To open the extension manager, go to `View` -> `Extension Manager` in the main menu. In the extension manager, search for `AutoscoperM` and click `Install` to install SAM. Once SAM is installed, switch to the `AutoscoperM` module by clicking `Modules` -> `AutoscoperM` in the main menu.
