@@ -1,0 +1,7 @@
+---
+---
+@import "minima";
+
+.site-title {
+    @include relative-font-size(1.425);
+}
