@@ -15,6 +15,16 @@
 
     {%- include footer.html -%}
 
+    <!-- Add anchors before the closing body tag. -->
+    <!-- See https://www.bryanbraun.com/anchorjs/ -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/5.0.0/anchor.min.js" integrity="sha512-byAcNWVEzFfu+tZItctr+WIMUJvpzT2kokkqcBq+VsrM3OrC5Aj9E2gh+hHpU0XNA3wDmX4sDbV5/nkhvTrj4w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script>
+    /**
+     * Add anchors to all h1s, h2s and h3s inside of .post.
+     */
+    anchors.add('.post h1, .post h2, .post h3');
+    </script>
+
   </body>
 
 </html>
