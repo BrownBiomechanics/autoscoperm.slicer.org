@@ -29,6 +29,11 @@ github_username:  BrownBiomechanics
 show_excerpts: true # set to true to show excerpts
 future: true  # allow events in the future (for calendar feed)
 
+header_pages:
+- about.md
+- events/index.html
+- documentation.md
+
 # Build settings
 markdown: kramdown
 theme: minima
