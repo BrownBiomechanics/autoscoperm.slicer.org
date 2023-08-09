@@ -31,16 +31,6 @@ SlicerAutoscoperM (SAM) development is a collaboration between the following ins
 
     <tr>
       <td>
-        <h4>Cleveland Clinic</h4>
-        <h5><a href="https://www.lerner.ccf.org/">Lerner Research Institute</a></h5>
-      </td>
-      <td>
-        <img src="../images/Cleveland.jpg" alt="Cleveland Clinic Lerner Research Institute" width="200">
-      </td>
-    </tr>
-
-    <tr>
-      <td>
         <h4>Mayo Clinic</h4>
         <h5><a href="https://www.mayo.edu/research/labs/assistive-and-restorative-technology/overview" target="_blank">Assistive and Restorative Technology Laboratory</a></h5>
       </td>
