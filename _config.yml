@@ -55,4 +55,5 @@ exclude:
    - vendor/ruby/
 # This project
    - LICENSE
+   - netlify.toml
    - README.md
