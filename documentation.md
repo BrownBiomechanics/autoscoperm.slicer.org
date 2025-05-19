@@ -4,15 +4,15 @@ title: Documentation
 permalink: /documentation/
 ---
 
-Autoscoper provides documentation to help users get started and use the program effectively. The documentation is hosted on [Read the Docs](https://autoscoper.readthedocs.io). For convenience, direct links are also provided below.
+SlicerAutoscoperM provides documentation to help users get started and use the program effectively. The documentation is hosted on [Read the Docs](https://autoscoper.readthedocs.io). For convenience, direct links are also provided below.
 
-* [Installing Slicer and AutoscoperM][autoscoperm-install]
+* [Installing Slicer and SlicerAutoscoperM][autoscoperm-install]
 * [Navigating the Slicer User Interface][slicer-user-interface]
 * [Downloading Autoscoper’s Sample Data][autoscoper-download-sampledata]
 * [Launching Autoscoper & Loading Data][autoscoper-launch-and-load-data]
 * [Navigating Autoscoper User Interface][autoscoper-user-interface]
-* [Tracking a Skeletal Structure][autoscoper-tracking]
-* [Evaluating Tracking Results][autoscoper-evaluating-tracking-results]
+* [Tracking a Skeletal Structure in BVR][autoscoper-tracking]
+* [Evaluating BVR Tracking Results][autoscoper-evaluating-tracking-results]
 * [Loading Dicom Data Into Slicer][slicer-loading-dicom]
 * [Generating Partial Volumes][autoscoperm-generating-partial-volumes]
 
