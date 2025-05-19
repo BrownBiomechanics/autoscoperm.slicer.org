@@ -11,7 +11,7 @@ SlicerAutoscoperM provides documentation to help users get started and use the p
 * [Downloading Autoscoper’s Sample Data][autoscoper-download-sampledata]
 * [Launching Autoscoper & Loading Data][autoscoper-launch-and-load-data]
 * [Navigating Autoscoper User Interface][autoscoper-user-interface]
-* [Tracking a Skeletal Structure in BVR][autoscoper-tracking]
+* [Tracking a Skeletal Structure in bi-plane videoradiography (BVR)][autoscoper-tracking]
 * [Evaluating BVR Tracking Results][autoscoper-evaluating-tracking-results]
 * [Loading Dicom Data Into Slicer][slicer-loading-dicom]
 * [Generating Partial Volumes][autoscoperm-generating-partial-volumes]
