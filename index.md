@@ -9,7 +9,7 @@ SlicerAutoscoperM (SAM) is a free, open source and multi-platform [3D Slicer](ht
 
 SAM includes modules for Pre-Processing, 3D tracking of structures captured via single, bi-, and multi-plane videoradiography ([Autoscoper](https://github.com/BrownBiomechanics/autoscoper)), 3D registration of structures captured via 4DCT Sequential 3DCT or MRI ([Hierarchical 3D Registration](https://autoscoper.readthedocs.io/en/latest/tutorials/hierarchical-3d-registration.html)) and a Sample Autoscoper data Tracking Evaluation module.
 
-<iframe src="https://drive.google.com/file/d/13AJJ0G3x-iVUNbyBQA6GJGcOfw9OV7Af/preview" width="640" height="480" allow="autoplay"></iframe>
+<img src="../images/sam_web.png" width="640">
 
 ## Current Features
 
