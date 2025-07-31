@@ -9,33 +9,42 @@ Free, open source 3D Slicer extension for image-based 3D motion tracking of skel
 
 Integrating advanced videoradiography, 4DCT registration, and hierarchical 3D registration for cutting-edge biomechanical research
 
-<div class="grid md:grid-cols-3 gap-8">
-    <div class="rounded-lg bg-card text-card-foreground shadow-sm border-2 hover:border-primary/50 transition-all duration-300">
-        <h3>Discourse</h3>
-        <button name="discourse" onclick="https://discourse.slicer.org/c/community/slicerautoscoperm/30">Discourse</button>
-    </div>
-    <div class="rounded-lg bg-card text-card-foreground shadow-sm border-2 hover:border-primary/50 transition-all duration-300">
-        <h3>GitHub</h3>
-        <button name="github" onclick="https://github.com/BrownBiomechanics">GitHub</button>
-    </div>
-        <div class="rounded-lg bg-card text-card-foreground shadow-sm border-2 hover:border-primary/50 transition-all duration-300">
+<table border: none;>
+<tr>
+    <td>
+        <h3>Discourse</h3>    </td>        
+    <td>
+        <h3>GitHub Repository</h3>
+    </td>    
+    <td>
         <h3>Documentation</h3>
-        <button name="readthedocs" onclick="https://autoscoper.readthedocs.io/">Documentation</button>
-    </div>
-</div>
+    </td>
+</tr>
+<tr>
+    <td>
+        Join the community and get answers to your questions
+    </td>
+    <td>
+        Access source code, report issues, and contribute to development
+    </td>
+    <td>
+       Comprehensive guides, tutorials, and API documentation
+    </td>
 
-<table>
+</tr>
+
 <tr>
     <td>
         <button name="discourse" onclick="https://discourse.slicer.org/c/community/slicerautoscoperm/30">Discourse</button>
-    </td>        
+    </td>
     <td>
-        <button name="github" onclick="https://github.com/BrownBiomechanics">GitHub</button>
-    </td>    
+        <button name="github" onclick="https://github.com/BrownBiomechanics">View Code</button>
+    </td>
     <td>
-        <button name="readthedocs" onclick="https://autoscoper.readthedocs.io/">Documentation</button>
+        <button name="readthedocs" onclick="https://autoscoper.readthedocs.io/">Read Docs</button> 
     </td>
 </tr>
+
 </table>
 
 
