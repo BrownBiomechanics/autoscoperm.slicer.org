@@ -35,13 +35,13 @@ Integrating advanced videoradiography, 4DCT registration, and hierarchical 3D re
 
 <tr>
     <td>
-        <button name="discourse" onclick="https://discourse.slicer.org/c/community/slicerautoscoperm/30">Discourse</button>
+        <button name="discourse" onclick="href ='https://discourse.slicer.org/c/community/slicerautoscoperm/30'">Discourse</button>
     </td>
     <td>
-        <button name="github" onclick="https://github.com/BrownBiomechanics">View Code</button>
+        <button name="github" onclick="href ='https://github.com/BrownBiomechanics'">View Code</button>
     </td>
     <td>
-        <button name="readthedocs" onclick="https://autoscoper.readthedocs.io/">Read Docs</button> 
+        <button name="readthedocs" onclick="href ='https://autoscoper.readthedocs.io/'">Read Docs</button> 
     </td>
 </tr>
 
