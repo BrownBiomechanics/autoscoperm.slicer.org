@@ -5,14 +5,42 @@ permalink: /about/
 ---
 
 
-We are actively soliciting investigators from across the world who perform skeletal motion tracking and are willing to join the effort to develop and assess SAM.
+Free, open source 3D Slicer extension for image-based 3D motion tracking of skeletal structures
 
-If you are interested in joining, please reach out to Trey Crisco, at `joseph_crisco@brown.edu`.
+Integrating advanced videoradiography, 4DCT registration, and hierarchical 3D registration for cutting-edge biomechanical research
 
-Please also visit the SlicerAutoscoperM [discourse category](https://discourse.slicer.org/c/community/slicerautoscoperm/30) and  [Brown Biomechanics](https://github.com/BrownBiomechanics) GitHub organization to find out more!
+<div class="grid md:grid-cols-3 gap-8">
+    <div class="rounded-lg bg-card text-card-foreground shadow-sm border-2 hover:border-primary/50 transition-all duration-300">
+        <h3>Discourse</h3>
+        <button name="discourse" onclick="https://discourse.slicer.org/c/community/slicerautoscoperm/30">Discourse</button>
+    </div>
+    <div class="rounded-lg bg-card text-card-foreground shadow-sm border-2 hover:border-primary/50 transition-all duration-300">
+        <h3>GitHub</h3>
+        <button name="github" onclick="https://github.com/BrownBiomechanics">GitHub</button>
+    </div>
+        <div class="rounded-lg bg-card text-card-foreground shadow-sm border-2 hover:border-primary/50 transition-all duration-300">
+        <h3>Documentation</h3>
+        <button name="readthedocs" onclick="https://autoscoper.readthedocs.io/">Documentation</button>
+    </div>
+</div>
+
+<table>
+<tr>
+    <td>
+        <button name="discourse" onclick="https://discourse.slicer.org/c/community/slicerautoscoperm/30">Discourse</button>
+    </td>        
+    <td>
+        <button name="github" onclick="https://github.com/BrownBiomechanics">GitHub</button>
+    </td>    
+    <td>
+        <button name="readthedocs" onclick="https://autoscoper.readthedocs.io/">Documentation</button>
+    </td>
+</tr>
+</table>
 
 
-<iframe src="https://drive.google.com/file/d/13AJJ0G3x-iVUNbyBQA6GJGcOfw9OV7Af/preview" width="640" height="480" allow="autoplay"></iframe>
+
+
 
 * [Team]({% link team.md %})
 * [License](https://autoscoper.readthedocs.io/en/latest/about.html#license)
