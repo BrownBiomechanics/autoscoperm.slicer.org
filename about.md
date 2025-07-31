@@ -9,7 +9,7 @@ Free, open source 3D Slicer extension for image-based 3D motion tracking of skel
 
 Integrating advanced videoradiography, 4DCT registration, and hierarchical 3D registration for cutting-edge biomechanical research
 
-<table border: none;>
+<table >
 <tr>
     <td>
         <h3>Discourse</h3>    </td>        
