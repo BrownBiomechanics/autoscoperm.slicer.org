@@ -88,24 +88,24 @@ Discourse forum, you can use the form below to contact the team directly.
   <div class="form-row">
     <div class="form-field">
       <label for="first-name">First Name</label>
-      <input type="text" id="entry.1180021443" name="first-name" required />
+      <input type="text" id="first-name" name="entry.1180021443" required />
     </div>
     <div class="form-field">
       <label for="last-name">Last Name</label>
-      <input type="text" id="entry.254693434" name="last-name" required />
+      <input type="text" id="last-name" name="entry.254693434" required />
     </div>
   </div>
 
   <div class="form-group">
     <label for="email">Email</label>
-    <input type="email" id="entry.1416781666" name="email" required
+    <input type="email" id="email" name="entry.1416781666" required
            pattern="[a-zA-Z0-9_\.\+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-\.]+"
            title="Please enter a valid email address." />
   </div>
 
   <div class="form-group">
     <label for="message">Message</label>
-    <textarea id="entry.2084414223" name="message" rows="6" required></textarea>
+    <textarea id="message" name="entry.2084414223" rows="6" required></textarea>
   </div>
 
   <div class="form-group">
