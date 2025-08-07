@@ -84,7 +84,7 @@ Integrating advanced videoradiography, 4DCT registration, and hierarchical 3D re
 If you prefer to reach out privately instead of posting in the public
 Discourse forum, you can use the form below to contact the team directly.
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSdV3YkJQg0aJ3utMx_Qh10iVJtTcyyznQctZWB7Kf6wHjRHpA" method="POST" class="contact-form">
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSdV3YkJQg0aJ3utMx_Qh10iVJtTcyyznQctZWB7Kf6wHjRHpA/formResponse" method="POST" class="contact-form">
   <div class="form-row">
     <div class="form-field">
       <label for="first-name">First Name</label>
