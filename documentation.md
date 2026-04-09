@@ -15,6 +15,8 @@ SlicerAutoscoperM provides documentation to help users get started and use the p
 * [Evaluating BVR Tracking Results][autoscoper-evaluating-tracking-results]
 * [Loading Dicom Data Into Slicer][slicer-loading-dicom]
 * [Generating Partial Volumes][autoscoperm-generating-partial-volumes]
+* [Performing Hierarchical 3D Registration (3DH)][autoscoperm-3DH]
+
 
 [autoscoperm-install]: https://autoscoper.readthedocs.io/en/latest/getting-started.html#installing-autoscoperm
 [slicer-user-interface]: https://slicer.readthedocs.io/en/latest/user_guide/user_interface.html
@@ -24,6 +26,6 @@ SlicerAutoscoperM provides documentation to help users get started and use the p
 [autoscoper-tracking]: https://autoscoper.readthedocs.io/en/latest/tutorials/loading-and-tracking.html#tracking-a-skeletal-structure
 [autoscoper-evaluating-tracking-results]: https://autoscoper.readthedocs.io/en/latest/tutorials/evaluating-tracking-results.html
 [slicer-loading-dicom]: https://slicer.readthedocs.io/en/latest/user_guide/data_loading_and_saving.html
-[autoscoperm-generating-partial-volumes]: https://autoscoper.readthedocs.io/en/latest/tutorials/pre-processing-module.html
+[autoscoperm-3DH]: https://autoscoper.readthedocs.io/en/latest/tutorials/hierarchical-3d-registration.html
 
 The documentation includes step-by-step tutorials, explanations of important concepts, and detailed information on how to use the program.
