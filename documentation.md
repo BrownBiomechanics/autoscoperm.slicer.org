@@ -26,6 +26,7 @@ SlicerAutoscoperM provides documentation to help users get started and use the p
 [autoscoper-tracking]: https://autoscoper.readthedocs.io/en/latest/tutorials/loading-and-tracking.html#tracking-a-skeletal-structure
 [autoscoper-evaluating-tracking-results]: https://autoscoper.readthedocs.io/en/latest/tutorials/evaluating-tracking-results.html
 [slicer-loading-dicom]: https://slicer.readthedocs.io/en/latest/user_guide/data_loading_and_saving.html
+[autoscoperm-generating-partial-volumes]: https://autoscoper.readthedocs.io/en/latest/tutorials/pre-processing-module.html
 [autoscoperm-3DH]: https://autoscoper.readthedocs.io/en/latest/tutorials/hierarchical-3d-registration.html
 
 The documentation includes step-by-step tutorials, explanations of important concepts, and detailed information on how to use the program.
